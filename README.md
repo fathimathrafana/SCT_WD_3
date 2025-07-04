@@ -24,6 +24,12 @@ Whether you're on desktop or mobile, the responsive layout ensures the fun stays
 
 🔄 Instant Restart & Score Reset – One-click control buttons
 
+🛠️ Tech Stack
+
+HTML5
+CSS3
+JavaScript (Vanilla)
+
 
 🕹️ How to Play
 
@@ -46,4 +52,22 @@ tic-tac-toe/
 
 ├── style.css        
 
-├── script.js          
+├── script.js      
+
+
+## 🔗 Live Demo
+
+👉 [Click here to play now]
+
+## 🧾 License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+## 🙌 Acknowledgements
+
+Built as part of internship learning at **SkillCraft Technology**.  
+Huge thanks to the mentors and team for their guidance!
+
+---
+
+Feel free to contribute, report issues, or suggest improvements. Happy gaming! 🎉
