@@ -57,7 +57,7 @@ tic-tac-toe/
 
 ## 🔗 Live Demo
 
-👉 [Click here to play now]
+👉 [Click here to play now] https://github.com/fathimathrafana/SCT_WD_3
 
 ## 🧾 License
 
